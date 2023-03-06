@@ -15,5 +15,5 @@
 ### Acquired data can also be output as csv file that can be converted to Point Cloudn.
 
 ## See play demo.
-[Demo Scene](https://youtu.be/NZDO0s5qUvg){:target="_blank"}
-[Get Data](https://youtu.be/8S0PgrzXvkg){:target="_blank"}
+[Demo Scene](https://youtu.be/NZDO0s5qUvg)
+[Get Data](https://youtu.be/8S0PgrzXvkg)
