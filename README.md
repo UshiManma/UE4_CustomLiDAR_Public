@@ -4,11 +4,11 @@
 ### ※This is only a personal production.
 
 ### For example, the following settings are available<br>
-###・View angle (vertical, horizontal)<br>
-###・Maximum measurement distance<br>
-###・Gaussian noise<br>
-###・Frequency(Hz)<br>
-###・Resolution<br>
+### ・View angle (vertical, horizontal)<br>
+### ・Maximum measurement distance<br>
+### ・Gaussian noise<br>
+### ・Frequency(Hz)<br>
+### ・Resolution<br>
 
 ### We recommend that the minimum resolution be kept around 0.2 because of the CPU calculations.
 
