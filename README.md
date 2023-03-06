@@ -16,4 +16,4 @@
 
 ## See play demo.
 [Demo Scene](https://youtu.be/NZDO0s5qUvg){:target="_blank"}
-[Get Data](https://youtu.be/NZDO0s5qUvg)(https://youtu.be/8S0PgrzXvkg){:target="_blank"}
+[Get Data](https://youtu.be/8S0PgrzXvkg){:target="_blank"}
