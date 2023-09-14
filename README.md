@@ -12,7 +12,7 @@
 
 ### We recommend that the minimum resolution be kept around 0.2 because of the CPU calculations.
 
-### Acquired data can also be output as csv file that can be converted to Point Cloudn.
+### Acquired data can also be output as csv file that can be converted to Point Cloud.
 
 ## See play demo.
 [Demo Scene](https://youtu.be/NZDO0s5qUvg)<br>
